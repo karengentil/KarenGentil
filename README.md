@@ -70,9 +70,7 @@ API REST desenvolvida com **Java e Spring Boot** para gerenciamento de produtos.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarenGentile&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenGentile&layout=compact&theme=dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarenGentile&theme=dracula" width="100%">
 
 </div>
 
