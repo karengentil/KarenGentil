@@ -68,11 +68,7 @@ API REST desenvolvida com **Java e Spring Boot** para gerenciamento de produtos.
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarenGentile&theme=dracula" width="100%">
-
-</div>
+💻 Confira meus projetos, contribuições e minha evolução por aqui!
 
 ---
 
